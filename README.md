@@ -61,3 +61,8 @@ This project is a fun game built with Python libraries OpenCV and MediaPipe. The
 
 - The video capture object is released.
 - All OpenCV windows are closed.
+
+# Demo Video
+
+https://github.com/get-aastha/simple_hand_tracking_game/assets/108509128/0321a228-66fd-4bd8-bd8b-4371ea416a97
+
